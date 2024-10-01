@@ -1,0 +1,30 @@
+
+server/
+├── app  /
+│   ├── public/
+│   │   ├── css/
+│   │   │   ├── chat/
+│   │   │   │   └── chat.css
+│   │   │   └── style.css
+│   │   ├── img
+│   │   └── js/
+│   │       ├── admin/
+│   │       │   └── admin.js
+│   │       ├── chat/
+│   │       │   └── chat.js
+│   │       └── script.js
+│   ├── routes/
+│   │   └── routes.js
+│   └── views/
+│       ├── admin/
+│       │   └── admin.html
+│       ├── chat/
+│       │   └── chat.html
+│       └── index.html
+├── node_modules
+├── uploads
+├── util/
+│   └── file-cleanner.js
+├── .gitignore
+├── package.json
+└── packege-lock.json
